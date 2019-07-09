@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Angular: Product Management';
+  // title: string = 'Angular: Product Managment';
 }
